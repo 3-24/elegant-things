@@ -1,5 +1,5 @@
 # elegant-things
-오래 기억해놓고 싶은 우아한 전산 분야 학문적, 기술적 관련 자료들 저장소
+오래 기억해놓고 싶은 우아한 전산 분야 자료 저장소
 
 # Science
 
@@ -18,5 +18,5 @@
 
 ## Presentation
 - marp
-  - Markdown 언어로 작성하는 프레젠테이션 
+  - Markdown으로 작성하는 프레젠테이션 
   - [Webpage](https://marp.app/)
